@@ -1,5 +1,7 @@
-## Hi there 👋
+# Veronika Bryskina
+### AI Backend Engineer / IT Researcher
 
+[📄 Download Full PDF Resume](https://drive.google.com/file/d/1poWF7hG-3CzFi6LqaAhJTznEv0f_dkvb/view?usp=sharing)
 <!--
 **veronikaBryskina/veronikaBryskina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
