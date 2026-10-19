@@ -1,7 +1,8 @@
 # Veronika Bryskina
 ### AI Backend Engineer / IT Researcher
 
-[Download Full PDF Resume](https://drive.google.com/file/d/1poWF7hG-3CzFi6LqaAhJTznEv0f_dkvb/view?usp=sharing)
+[Download Full PDF Resume](https://drive.google.com/file/d/1716OTYOo-IUI3RElZ65BuszjJytkEbt2/view?usp=sharing)
+
 <!--
 **veronikaBryskina/veronikaBryskina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,8 +29,8 @@ I work across backend engineering, MLOps, and applied AI - from REST APIs and or
 ## What I work with
 
 * **Backend:** Python, FastAPI, REST APIs, PostgreSQL, Nginx
-* **AI / ML:** Hugging Face Transformers, LangChain, Ollama, RAG, FAISS
-* **MLOps & Data:** MLflow, Prefect, Kedro, Ray, Pandas, NumPy
+* **AI / ML:** Hugging Face Transformers, LangChain, OpenCV, Ollama, RAG, FAISS
+* **MLOps & Data:** MLflow, Prefect, Kedro, Ray, Pandas, NumPy, Multimodal data preprocessing
 * **Infrastructure:** Linux, Bash, Docker, Azure, Vast.ai, Amazon S3, NetBird
 * **Development:** Git, monitoring, debugging, documentation
 * **Visualization:** Matplotlib, Plotly
@@ -48,14 +49,14 @@ I work across backend engineering, MLOps, and applied AI - from REST APIs and or
 * Work with research and development teams to move AI/ML experiments into usable software systems
 * Improve infrastructure reproducibility, scalability, reliability, and cost efficiency
 
-## 🛠 Tech stack
+## Tech stack
 
-`Python` · `FastAPI` · `Linux` · `Bash` · `Docker` · `Git` · `PostgreSQL` · `Amazon S3` · `Azure` · `Vast.ai` · `Nginx` · `Pandas` · `NumPy` · `Hugging Face Transformers` · `LangChain` · `MLflow` · `Ollama` · `Kedro` · `Prefect` · `Ray` · `NetBird` · `FAISS` · `Matplotlib` · `Plotly`
+`Python` · `FastAPI` · `Linux` · `Bash` · `Docker` · `Git` · `PostgreSQL` · `Amazon S3` · `Azure` · `Vast.ai` · `Nginx` · `Pandas` · `NumPy` · `Hugging Face Transformers` · `LangChain` · `OpenCV` · `MLflow` · `Ollama` · `Kedro` · `Prefect` · `Ray` · `NetBird` · `FAISS` · `Matplotlib` · `Plotly`
 
 ## Education
 
-**Master's Degree in Applied informatics**, Vytautas Magnus University, **Sep 2024 – Jun 2026** 
-**Bachelor's Degree in Cybersecurity**, Kyiv National Economic University, **Sep 2019 – Jun 2023**
+* **Master's Degree in `Applied informatics`**, Vytautas Magnus University, **Sep 2024 – Jun 2026** 
+* **Bachelor's Degree in `Cybersecurity`**, Kyiv National Economic University, **Sep 2019 – Jun 2023**
 
 ## Certifications
 
