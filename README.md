@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/veronika-bryskina-72707023b/)
-[![ORCID](https://img.shields.io/badge/ORCID-YOUR--ORCID--ID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7986-1280)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:veronikab2706@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-My%20research-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7986-1280)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-red?logo=gmail)](mailto:veronikab2706@gmail.com)
 
 I'm an **AI Backend Engineer** focused on building production-grade Python services, scalable backend systems, data pipelines, and machine learning workflows.
 
-I work across backend engineering, MLOps, and applied AI — from REST APIs and orchestration pipelines to local LLM inference, RAG systems, and cloud/hybrid deployments.
+I work across backend engineering, MLOps, and applied AI - from REST APIs and orchestration pipelines to local LLM inference, RAG systems, and cloud/hybrid deployments.
 
 ## What I work with
 
@@ -38,7 +38,7 @@ I work across backend engineering, MLOps, and applied AI — from REST APIs and 
 
 ### AI Backend Engineer
 
-**Centre for Applied Research and Development** · 2024–Present
+**Centre for Applied Research and Development** · Sep 2024–Present
 
 * Design and maintain Python backend services and REST APIs with **FastAPI**
 * Integrate AI model training and inference pipelines into production systems
@@ -54,15 +54,16 @@ I work across backend engineering, MLOps, and applied AI — from REST APIs and 
 
 ## Education
 
-**Master's Degree in Applied Informatics** 2024–2026
-
-**Bachelor's Degree in Cybersecurity** 2019–2023
+**Master's Degree in Applied informatics**, Vytautas Magnus University, **Sep 2024 – Jun 2026** 
+**Bachelor's Degree in Cybersecurity**, Kyiv National Economic University, **Sep 2019 – Jun 2023**
 
 ## Certifications
 
-* **TensorFlow Developer Professional Certificate** — 2023
-* **Neural Networks and Deep Learning** — Coursera, 2021
-* **Data Science Fundamentals** — Data Root Labs, 2021
+* **TensorFlow Developer Professional Certificate** - 2023
+* **Neural Networks and Deep Learning** - Coursera, 2021
+* **Data Science Fundamentals** - Data Root Labs, 2021
+* **Cybersecurity Essentials** - Cisco, 2022
+* **IoT Fundamentals: IoT Security** - Cisco, 2022
 
 ## Languages
 
@@ -73,7 +74,7 @@ I work across backend engineering, MLOps, and applied AI — from REST APIs and 
 
 I've volunteered at technical and community events including:
 
-* **Transform4Europe Strategic Policy Conference** — Kaunas, 2025
-* **International Conference on Artificial Neural Networks (ICANN)** — 2025
-* **ECML PKDD** — Vilnius, 2024
+* **Transform4Europe Strategic Policy Conference** - Kaunas, 2025
+* **International Conference on Artificial Neural Networks (ICANN)** - 2025
+* **ECML PKDD** - Vilnius, 2024
 * Ukrainian community organizations in St. John's, Canada
